@@ -1,7 +1,7 @@
 # practice-readline-sync-eric-v
 Directions:
 
-Your applications should:
+Your application should:
   1. Use the readline-sync node module to ask users questions and collect their
   responses.
   2. Prompt the user for their name and greet them.
